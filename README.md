@@ -1,4 +1,4 @@
-# 🌸 Assignment 1: Iris Flower Classification using SVM
+#  Assignment 1: Iris Flower Classification using SVM
 
 This repository contains the Python code for an academic assignment focused on machine learning classification. The project implements a **Support Vector Machine (SVM)** algorithm to classify species of Iris flowers based on their physical measurements.
 
@@ -18,12 +18,4 @@ This repository contains the Python code for an academic assignment focused on m
 
 ---
 
-## 🚀 How to Run
-
-To run this project on your local machine, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/pratik316amrit/APR-Assignemt1.git
-```
 
